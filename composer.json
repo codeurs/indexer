@@ -1,0 +1,20 @@
+{
+    "name": "codeurs/indexer",
+    "type": "library",
+    "require": {
+        "jonnyw/php-phantomjs": "^4.5",
+        "masterminds/html5": "^2.2",
+        "pascalbaljetmedia/term-extractor": "^1.0",
+        "querypath/QueryPath": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Merckx",
+            "email": "ben@codeurs.be"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Indexer\\": "src/"}
+    }
+}

@@ -1,0 +1,6 @@
+/index.php
+/vendor
+/.idea
+/Caddyfile
+/composer.lock
+/cache
